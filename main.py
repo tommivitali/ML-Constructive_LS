@@ -11,7 +11,7 @@ from drawer import plot_points_sol_intermediate
 
 
 cl_method = CandidateList.Method.NearestNeighbour
-ml_model = MLAdd.MLModel.OptimalTour
+ml_model = MLAdd.MLModel.SVM
 
 print(f'Candidate List Method: {cl_method}')
 print(f'ML Model: {ml_model}')
