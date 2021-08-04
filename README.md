@@ -16,9 +16,9 @@ In this repository you can find the code used for the experiments, along with th
 
 - scikit-learn
 
-- [pyconcorde]([GitHub - jvkersch/pyconcorde: Python wrapper around the Concorde TSP solver](https://github.com/jvkersch/pyconcorde))
+- [pyconcorde](https://github.com/jvkersch/pyconcorde)
 
-- [pypopmusic]([GitHub - tommivitali/pypopmusic](https://github.com/tommivitali/pypopmusic))
+- [pypopmusic](https://github.com/tommivitali/pypopmusic)
 
 <!---
 Required packages: cython, halo, matplotlib, numpy, scipy, scikit-learn,
